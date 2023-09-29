@@ -27,7 +27,7 @@ public class Extra_boletin3_4 {
             total = total%5;
         }
         if (total>=1){
-            cant1 = total/1;
+            cant1 = total
         }
         System.out.println("Desglose:\nBilletes de 100 = " + cant100+"\nBilletes de 20 = "+cant20+"\nBilletes de 5 = "+cant5+"\nMoedas de 1 = "+cant1);
     }
