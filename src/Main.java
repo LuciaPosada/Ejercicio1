@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hurricane Walaka");
         System.out.println("Hurricane Walaka was the nineteenth named storm and second Category 5 hurricane of the 2018 Pacific hurricane season");
         System.out.println("Fuente: Wikipedia");
+        System.out.println("UwU");
     }
 }

@@ -21,7 +21,7 @@ class Extra_boletin3_1 {
         //Operaciones
         prcfinal = -(rebaja*compra/100-compra);
         System.out.println("precio rebajado = "+prcfinal+" €");
-
+        System.out.println("UwU");
     }
 
 }
